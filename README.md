@@ -22,3 +22,19 @@ You can download the dataset from [baywheels-data](https://s3.amazonaws.com/bayw
   - user_type should be of category type
   - bike_share_for_all_trip should be of category type
 - Add new columns (start_month,start_month_num,start_weekday,start_hour,end_hour,duration_min)
+
+## Project Findings
+
+- We have observed an analysis on user types with respect to hour,day,month of travel.  
+- We got to note that on weekends we can see a more variation in trips throughout the day.  
+- We can see that the customers have the higher average trip duration as compared to the subscribers.
+
+## Resources 
+
+- [pandas documentation](https://pandas.pydata.org/docs/)
+- [matplotlib tutorials](https://matplotlib.org/tutorials/index.html)
+- [seaborn tutorial](https://seaborn.pydata.org/tutorial.html)
+- [glob](https://docs.python.org/3/library/glob.html)
+- [stackoverflow](https://stackoverflow.com/questions/)
+- [Data Visualization](https://blog.insightdatascience.com/data-visualization-in-python-advanced-functionality-in-seaborn-20d217f1a9a6)
+- [color palettes](https://seaborn.pydata.org/tutorial/color_palettes.html)
