@@ -8,6 +8,8 @@ Bay Wheels is the first regional and large-scale bicycle sharing system deployed
 
 Ford GoBike, like other bike share systems, consists of a fleet of specially designed, sturdy and durable bikes that are locked into a network of docking stations throughout the city. The bikes can be unlocked from one station and returned to any other station in the system, making them ideal for one-way trips. People use bike share to commute to work or school, run errands, get to appointments or social engagements and more. It's a fun, convenient and affordable way to get around.
 
+![alt text](https://github.com/nishujain95/FordGoBike_Data_Analysis/blob/master/bikebay.jpg "Logo Title Text 1")
+
 You can download the dataset from [baywheels-data](https://s3.amazonaws.com/baywheels-data/index.html)
 
 ## Data Wrangling Process
